@@ -317,7 +317,7 @@ This application was developed with AI assistance to generate and refine the Pyt
 **Thiago Maria - From Brazil to the World 🌎**  
 *Senior Security Information Professional | Passionate Programmer | AI Developer*
 
-With a professional background in security analysis and a deep passion for programming, I created this GitHub account to share knowledge about security information, cybersecurity, Python and AI development practices. Most of my work focuses on implementing security-first approaches at companies and developer tools while maintaining usability and productivity.
+With a professional background in security analysis and a deep passion for programming, I created this GitHub account to share knowledge about security information, cybersecurity, Python and AI development practices. Most of my work focuses on implementing security-first approaches at companies while maintaining usability and productivity.
 
 **Let's Connect:**    
 
